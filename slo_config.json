@@ -1,0 +1,20 @@
+{
+  "completeness": {
+    "min_threshold": 95
+  },
+  "duplicates": {
+    "max_threshold": 5
+  },
+  "uniqueness": {
+    "min_threshold": 95
+  },
+  "timeliness": {
+    "max_delay": 2
+  },
+  "accuracy": {
+    "min_threshold": 98
+  },
+  "validity": {
+    "min_threshold": 90
+  }
+}
