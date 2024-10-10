@@ -15,6 +15,8 @@ seaborn>=0.12.2, <1.0      # Use the latest version below 1.0
 
 # Dashboard
 streamlit>=1.24.0         # Use the latest version available
+dash
+plotly
 
 # Test data synthesis
 faker>=19.3.1             # Use the latest version available
